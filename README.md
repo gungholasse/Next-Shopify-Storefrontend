@@ -26,7 +26,7 @@ If you like this project, hit the **STAR** button to bookmark it ⭐️
 Clone the source code into your computer.
 
 ```bash
-git clone git@github.com:fredcarterwolf/shopify-react-nextjs.git
+git clone git@github.com:gungholasse/Next-Shopify-Storefrontend.git
 ```
 
 Install the project's dependencies.
